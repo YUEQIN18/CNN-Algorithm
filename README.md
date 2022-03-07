@@ -22,6 +22,6 @@ Then we need to convert the text into a matrix. This process is obtained through
 
 The converted matrix passes through the convolutional layer, pooling layer, fully connected layer, and to the output layer. Fig shows us the structure of CNN.
 
-![CNN Model Fig]()
+![CNN Model Fig](https://github.com/YUEQIN18/CNN-Algorithm/blob/main/cnn.png)
 
 In the present work we have described a series of experiments with convolutional neural networks built on top of GloVe. Despite little tuning of hyperparameters, a simple CNN performs remarkably well. Our results prove an accepted fact that CNN is an indispensable algorithm in the ﬁeld of natural language processing.
